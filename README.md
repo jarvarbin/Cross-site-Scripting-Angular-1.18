@@ -1,6 +1,9 @@
 # Cross-site-Scripting-Angular-1.18
 Payload XSS Angular.js &lt; 1.18
-https://cdn.appdesign.dev/wp-content/uploads/2020/08/Agencia-desarrollo-Angular-JS.jpg
+
+    ![image](https://cdn.appdesign.dev/wp-content/uploads/2020/08/Agencia-desarrollo-Angular-JS.jpg)
+
+
 **Angular 1.13 - 1.18**
 
 Angular es un paquete que le permite escribir aplicaciones web del lado del cliente como si tuviera un navegador más inteligente. También le permite usar HTML como su lenguaje de plantilla y le permite ampliar la sintaxis de HTML para expresar los componentes de su aplicación de forma clara y sucinta.
