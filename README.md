@@ -1,7 +1,7 @@
 # Cross-site-Scripting-Angular-1.18
 Payload XSS Angular.js &lt; 1.18
 
-    ![image](https://cdn.appdesign.dev/wp-content/uploads/2020/08/Agencia-desarrollo-Angular-JS.jpg)
+![image](https://www.megaleechers.com/storage/AngularJS-Icon.png)
 
 
 **Angular 1.13 - 1.18**
