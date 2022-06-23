@@ -29,8 +29,12 @@ especialmente modificado por un atacante.
    > const inertPayload = `<div><style><style/><img src=x onerror="alert(Hello XSS)"/>`
    > angular.element(document.childNodes).append(inertPayload);
 
-Payload:
+**Payload:**
+
     ![image](https://user-images.githubusercontent.com/93614373/175279760-65b393de-ba06-4a8e-9d31-d5def7bbf7f2.png)
     
-Ventana emergente al ser vulnerable:
+
+**Ventana emergente al ser vulnerable:**
+
+
 ![image](https://user-images.githubusercontent.com/93614373/175279876-ac60a27d-e8de-4025-a1fa-0e070c74e162.png)
